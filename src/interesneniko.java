@@ -1,4 +1,3 @@
-
 import java.util.Random;
 
 /*массив из 1000 элементов случайных чисел
@@ -6,7 +5,7 @@ import java.util.Random;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-public class zadanievany{
+public class interesneniko{
 /**
  *
  * @author user
